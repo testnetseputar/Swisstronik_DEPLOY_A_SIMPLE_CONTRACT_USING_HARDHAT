@@ -1,10 +1,10 @@
-# Swisstronik Tesnet Techinal Task 1
+# Swisstronik Tesnet Task 1
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
-## Steps
+## Tutorial
 
-### 1. Clone Repository
+### 1. Salin Alamat Link Dibawah ini Ke Gitpod
 
 ```bash
 git clone https://github.com/seputartestnet/swisstronik_incentivized
@@ -14,13 +14,7 @@ git clone https://github.com/seputartestnet/swisstronik_incentivized
 cd hardhat-deploy-contract
 ```
 
-### 2. Install Dependency
-
-```bash
-npm install
-```
-
-### 3. Set .env File
+### 3. Buat File .env Lalu Copy Paste Tesk Dibawah ini Beserta Masukkan Private Key EVM
 
 create .env file in root project
 
