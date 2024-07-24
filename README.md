@@ -4,7 +4,7 @@ link Untuk Misinya Disini: [Click!](https://www.swisstronik.com/testnet2/dashboa
 
 ## Tutorial ini Saya Dapatkan Dari Banyak Sumber. Dan Saya Ubah Agar Lebih Mudah Dipahami
 
-### 1. Salin Alamat Link Dibawah ini Ke Gitpod, ( Link Copas Diawali Https ) 
+### 1. Salin Alamat Link Dibawah ini Ke Gitpod, ( Link Copas Diawali Https, git clone nya Dihapus) 
 
 ```bash
 git clone https://github.com/seputartestnet/swisstronik_incentivized
