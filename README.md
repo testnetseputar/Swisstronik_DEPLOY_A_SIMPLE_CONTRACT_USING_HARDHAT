@@ -2,7 +2,7 @@
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
-## Tutorial
+## Tutorial ini Saya Dapatkan Dari Banyak Sumber. Dan Saya Ubah Agar Lebih Mudah Dipahami
 
 ### 1. Salin Alamat Link Dibawah ini Ke Gitpod
 
@@ -14,68 +14,28 @@ git clone https://github.com/seputartestnet/swisstronik_incentivized
 cd hardhat-deploy-contract
 ```
 
-### 3. Buat File .env Lalu Copy Paste Tesk Dibawah ini Beserta Masukkan Private Key EVM
+### 2. Buat File .env Lalu Copy Paste Tesk Dibawah ini Beserta Masukkan Private Key EVM
 
-create .env file in root project
+Buat .env file Di Bagian Atas
 
 ```bash
 PRIVATE_KEY="your private key"
 ```
 
-### 4. Create Smart Contract
 
-- Open contract folder
-- Create Hello_swtr.sol file
-- Copy this code and paste there
-
-```
-/// SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.8.19;
-
-//This contract is only intended for testing purposes
-
-contract Swisstronik {
-    string private message;
-
-    /**
-     * @dev Constructor is used to set the initial message for the contract
-     * @param _message the message to associate with the message variable.
-     */
-    constructor(string memory _message) payable{
-        message = _message;
-    }
-
-    /**
-     * @dev setMessage() updates the stored message in the contract
-     * @param _message the new message to replace the existing one
-     */
-    function setMessage(string memory _message) public {
-        message = _message;
-    }
-
-    /**
-     * @dev getMessage() retrieves the currently stored message in the contract
-     * @return The message associated with the contract
-     */
-    function getMessage() public view returns(string memory){
-        return message;
-    }
-}
-```
-
-### 5. Compile Smart Contract
+### 3. Compile Kontrak Pintar
 
 ```bash
 npm run compile
 ```
 
-### 6. Deploy Smart Contract
+### 4. Deploy Kontrak Pintar
 
 ```bash
 npm run deploy
 ```
 
-### 7. Get Message
+### 5. Get Message
 
 ```bash
 npm run get-message
@@ -87,8 +47,10 @@ npm run get-message
 npm run set-message
 ```
 
-### 9. Finsihed
+### 5. Penyelesaian Akhir
 
-- Open the deployed-adddress.ts (location in utils folder)
-- Copy the address and paste the address in testnet dashboard
-- push this project to your github and paste your repository link in testnet dashboard
+- Buka Menu deployed-adddress.ts Di Situ Ada Kontrak Pintar Yang Sudah Dibuat
+- Lalu Salin Dan Copy Paste Di Misi Yang Ada Pada Halaman Swisstronik Testnet
+- Ingat Pastikan Di isi Dengan Benar
+
+- ### TERIMAKASIH DAN SEMOGA BERMANFAAT
