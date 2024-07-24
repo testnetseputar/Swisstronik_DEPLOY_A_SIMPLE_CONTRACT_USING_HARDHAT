@@ -1,6 +1,6 @@
 # Swisstronik Tesnet Task 1
 
-link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
+link Untuk Misinya Disini: [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
 ## Tutorial ini Saya Dapatkan Dari Banyak Sumber. Dan Saya Ubah Agar Lebih Mudah Dipahami
 
