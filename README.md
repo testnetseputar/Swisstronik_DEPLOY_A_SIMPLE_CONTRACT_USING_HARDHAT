@@ -14,7 +14,7 @@ git clone https://github.com/seputartestnet/swisstronik_incentivized
 cd hardhat-deploy-contract
 ```
 
-### 2. Buat File .env Lalu Copy Paste Tesk Dibawah ini Beserta Masukkan Private Key EVM
+### 2. Buat File .env Lalu Copy Paste Tesk Dibawah ini Beserta Masukkan Private Key EVM ( Bisa Gunakan New Wallet Atau Wallet Testnet ) Tergantung Masing - Masing. 
 
 Buat .env file Di Bagian Atas
 
@@ -51,6 +51,6 @@ npm run set-message
 
 - Buka Menu deployed-adddress.ts Di Situ Ada Kontrak Pintar Yang Sudah Dibuat
 - Lalu Salin Dan Copy Paste Di Misi Yang Ada Pada Halaman Swisstronik Testnet
-- Ingat Pastikan Di isi Dengan Benar
+- Ingat Pastikan Di isi Dengan Benar.
 
 - ### TERIMAKASIH DAN SEMOGA BERMANFAAT
