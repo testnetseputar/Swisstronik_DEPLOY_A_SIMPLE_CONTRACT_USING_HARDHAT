@@ -2,7 +2,8 @@
 
 link Untuk Misinya Disini: [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
-## Tutorial ini Saya Dapatkan Dari Banyak Sumber. Dan Saya Ubah Agar Lebih Mudah Dipahami
+Sebelumnya Saya Ingatkan Untuk Menggunakan New Wallet, Terserah Masing - Masing, ini Hanya Saran.
+Tutorial Yang Saya Berikan Adalah Kumpulan Dari Berbagai Sumber Yang Sudah Saya Rangkum Agar Lebih Mudah Di Pahami Bagi Mereka Yang Mau Mengerjakan ( DYOR )
 
 ### 1. Salin Alamat Link Dibawah ini Ke Gitpod, ( Link Copas Diawali Https, git clone nya Dihapus) 
 
