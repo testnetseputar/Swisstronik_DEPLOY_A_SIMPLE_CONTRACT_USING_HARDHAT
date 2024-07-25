@@ -57,4 +57,7 @@ npm run set-message
 - Lalu Salin Dan Copy Paste Di Misi Yang Ada Pada Halaman Swisstronik Testnet
 - Ingat Pastikan Di isi Dengan Benar.
 
+link Untuk Misinya Disini: [Click!](https://www.swisstronik.com/testnet2/dashboard)
+
+
 - ### TERIMAKASIH DAN SEMOGA BERMANFAAT
