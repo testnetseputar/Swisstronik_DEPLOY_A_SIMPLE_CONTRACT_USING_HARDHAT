@@ -11,7 +11,7 @@ link Untuk Misinya Disini: [Click!](https://www.swisstronik.com/testnet2/dashboa
 ### 1. Salin Alamat Link Dibawah ini Ke Gitpod, ( Link Copas Diawali Https, git clone nya Dihapus) 
 
 ```bash
-git clone https://github.com/seputartestnet/swisstronik_incentivized
+git clone https://github.com/seputartestnet/Swisstronik1
 ```
 
 ```
